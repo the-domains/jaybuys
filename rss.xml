@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jaybuys]]></title>
+        <description><![CDATA[jaybuys]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 23:57:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Machines won't replace us, they'll force us to evolve.</p>]]></description>
+            <link>undefinedmachines-wont-replace-us-theyll-force-us-to-evolve/index.html</link>
+            <guid isPermaLink="false">8c69aa1a-e836-4c9a-890d-74e52a0fefb9</guid>
+            <pubDate>Tue, 10 May 2016 23:57:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
